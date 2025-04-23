@@ -1,0 +1,24 @@
+Order ID: 10000001
+Order by: some_username
+ItemID: 120, Item Name: Gaming Chair, Quantity: 10, Price/Unit: RM1200.00
+Total Amount: RM12000.00
+Status: Unpaid
+----------------------------------------
+Order ID: 10000003
+Order by: some_username
+ItemID: 120, Item Name: Gaming Chair, Quantity: 3, Price/Unit: RM1200.00
+Total Amount: RM3600.00
+Status: Unpaid
+----------------------------------------
+Order ID: 10000004
+Order by: some_username
+ItemID: 117, Item Name: Laptop Cooling Pad, Quantity: 1, Price/Unit: RM120.00
+Total Amount: RM120.00
+Status: Unpaid
+----------------------------------------
+Order ID: 10000005
+Order by: Customer
+ItemID: 110, Item Name: Power Supply, Quantity: 1, Price/Unit: RM450.00
+Total Amount: RM450.00
+Status: Unpaid
+----------------------------------------

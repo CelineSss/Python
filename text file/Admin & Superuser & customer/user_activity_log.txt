@@ -1,0 +1,9 @@
+2024-08-09 10:30:52 - User: ADMIN001, Activity: Failed login attempt
+ADMIN001,Failed login attempt,2024-08-14 13:21:41
+ADMIN001,Logged in,2024-08-14 13:31:46
+superuser@12345,Failed login attempt,2024-08-14 13:32:10
+ADMIN001,Logged in,2024-08-15 10:00:25
+ADMIN001,Logged in,2024-08-15 10:00:37
+ADMIN001,Logged in,2024-08-15 10:03:11
+ADMIN001,Logged in,2024-08-15 10:03:49
+superuser@123,Failed login attempt,2024-08-15 10:04:28

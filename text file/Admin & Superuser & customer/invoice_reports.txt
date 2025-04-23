@@ -1,0 +1,1 @@
+[{"Invoice ID": "INV001", "Customer": "jenniekim", "Amount": "RM150.00", "Date": "2024-08-01"}, {"Invoice ID": "INV002", "Customer": "kimjisoo", "Amount": "RM200.00", "Date": "2024-08-02"}, {"Invoice ID": "INV003", "Customer": "jaypark", "Amount": "RM250.00", "Date": "2024-08-03"}]

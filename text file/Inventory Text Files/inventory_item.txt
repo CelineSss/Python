@@ -1,0 +1,21 @@
+101, Laptop, Dell, Laptop, Inspiron 15 3000, 15.6-inch laptop with Intel i5 processor, 8GB RAM, 256GB SSD, 2, SKU101, 2300.0, 25
+102, Desktop, HP, Desktop, Pavilion 590, Powerful desktop for everyday use, 16GB RAM, 1TB HDD, 3, SKU102, 3200.0, 10
+103, Monitor, Samsung, Monitor, LC24F396FHNXZA, Curved 24-inch monitor, 1920x1080 resolution, 60Hz, 2, SKU103, 650.0, 15
+104, Mouse, Logitech, Accessory, M330, Silent wireless mouse, Wireless, ergonomic design, 1, SKU104, 75.0, 50
+105, Keyboard, Corsair, Accessory, K95 RGB, Mechanical gaming keyboard, RGB backlight, Cherry MX switches, 2, SKU105, 550.0, 20
+106, Printer, Canon, Printer, PIXMA G2020, High-efficiency color printer, Ink tank system, USB 2.0, 1, SKU106, 450.0, 30
+107, External Hard Drive, Seagate, Storage, Backup Plus, Portable external hard drive, 2TB storage, USB 3.0, 2, SKU107, 350.0, 40
+108, SSD, Samsung, Storage, 970 EVO, High-speed SSD for gaming, 1TB NVMe, M.2, 5, SKU108, 750.0, 25
+109, Graphics Card, NVIDIA, Component, RTX 3070, Powerful GPU for gaming, 8GB GDDR6, Ray tracing support, 3, SKU109, 2500.0, 15
+110, Power Supply, Corsair, Component, RM850x, High-performance power supply, 850W, 80+ Gold certified, 3, SKU110, 450.0, 35
+111, Motherboard, ASUS, Component, ROG Strix Z490-E, Gaming motherboard, LGA 1200, ATX, DDR4 support, 3, SKU111, 900.0, 10
+112, RAM, Kingston, Component, HyperX Fury, High-speed RAM for gaming, 16GB DDR4, 3200MHz, 5, SKU112, 350.0, 60
+113, CPU, Intel, Component, Core i7-10700K, High-performance CPU, 8 cores, 16 threads, 3.8GHz, 3, SKU113, 1500.0, 20
+114, Laptop Charger, Dell, Accessory, LA65NS2-01, 65W power adapter for laptops, 65W, 19.5V, 2, SKU114, 150.0, 50
+115, Webcam, Logitech, Accessory, C920 HD Pro, Full HD webcam, 1080p, 30fps, 2, SKU115, 350.0, 20
+116, Wireless Router, TP-Link, Networking, Archer AX6000, High-speed Wi-Fi 6 router, 8-stream, 1.8GHz quad-core CPU, 3, SKU116, 600.0, 15
+117, Laptop Cooling Pad, Cooler Master, Accessory, Notepal X3, Cooling pad for laptops, 120mm fan, adjustable height, 2, SKU117, 120.0, 40
+118, USB Flash Drive, SanDisk, Storage, Ultra Flair, High-speed USB flash drive, 128GB, USB 3.0, 1, SKU118, 65.0, 75
+119, Headset, Razer, Accessory, Kraken X, Wired gaming headset, 7.1 surround sound, lightweight design, 2, SKU119, 250.0, 30
+120, Gaming Chair, Secretlab, Furniture, Omega 2020, Comfortable gaming chair, Adjustable armrests, lumbar support, 5, SKU120, 1200.0, 10
+122, Laptop, Acer, Laptop, Nitro 5 Intel, 15.6-inch gaming laptop with 12th gen Intel processor, 16GB RAM, 1TB SSD, 2, SKU122, 4999.68, 25
